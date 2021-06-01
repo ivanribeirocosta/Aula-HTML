@@ -1,0 +1,46 @@
+/*Associa;áo pelo nome do elemento */
+h1{
+    color : blue;
+  }
+  /*Associa;áo pelo ID ELEMTNO*/
+  #tit_1{
+   font-size: 40px;
+  }
+  /*Associa;áo pela classe do elemto*/
+  .noticias{
+    font-family: arial;
+  }
+  p, h1{
+      background-color: lightgray;
+  }
+  .destaque{
+      color: red;
+  }
+  #conteudo{
+    width: 70%;
+    background-color: blanchedalmond;
+    float: left;
+  }
+  #menu_contexto{
+    width: 30%;
+    background-color: lightpink;
+    float: left;
+  }
+  #rodape{
+    clear: both;
+  }
+  table{
+    width: 100%;
+  }
+  table caption{
+    font-weight: bolder;
+    font-size: 30px;
+  }
+  th{
+    background-color: grey;
+    color: white;
+  }
+  td{
+    background-color: azure;
+  }
+  
